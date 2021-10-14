@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ef9ecd-bdf3-4ac0-8627-d46b6955e5d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PLN_Processamento_Linguagem_Natural.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PLN_Processamento_Linguagem_Natural.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gera_nuvem.py" beforeDir="false" afterPath="$PROJECT_DIR$/gera_nuvem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
